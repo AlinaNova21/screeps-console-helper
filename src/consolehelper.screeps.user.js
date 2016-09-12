@@ -6,6 +6,7 @@
 // @match        https://screeps.com/a/*
 // @run-at       document-idle
 // @grant        none
+// @updateURL    https://github.com/ags131/screeps-console-helper/raw/master/src/consolehelper.screeps.user.js
 // ==/UserScript==
 
 function attachInterceptor() {
