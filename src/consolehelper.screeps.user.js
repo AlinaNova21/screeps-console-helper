@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Screeps Console Injector
 // @namespace    https://screeps.com/
-// @version      1.0.1
+// @version      1.0.2
 // @author       Adam Shumann, ags131
 // @match        https://screeps.com/a/*
 // @run-at       document-idle
@@ -55,6 +55,8 @@ ${extra};
 let $id = $i0;
 let $roomName = $rn0;
 let $room = $r0;
+let $r = $r0;
+let $rn = $rn0;
 let $selected = $0;
 ${d.expression}
 }`;
