@@ -58,6 +58,7 @@ let $room = $r0;
 let $r = $r0;
 let $rn = $rn0;
 let $selected = $0;
+${localStorage.extraMapping||''};
 ${d.expression}
 }`;
            console.log('INTERCEPTED',orig,d.expression);
