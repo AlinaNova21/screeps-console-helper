@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Screeps Console Injector
 // @namespace    https://screeps.com/
-// @version      1.0.2
+// @version      1.0.3
 // @author       Adam Shumann, ags131
 // @match        https://screeps.com/a/*
 // @run-at       document-idle
