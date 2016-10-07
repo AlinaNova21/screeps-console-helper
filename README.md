@@ -11,7 +11,7 @@ $0 = Currently selected object
 
 $1 = Last selected
 
-$2-4 = Smae as above, just farther down history
+$2-4 = Same as above, just farther down history
 
 
 $i0 = Current selection ID
